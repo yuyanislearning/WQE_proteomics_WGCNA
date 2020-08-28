@@ -1,0 +1,38 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3954044 Released 2020-07-16
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Mus musculus - REFLIST (22265)	upload_1 (96)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+serine protease inhibitor complex (GO:0097180)	3	2	.01	+	 > 100	1.81E-04	3.25E-02
+peptidase inhibitor complex (GO:1904090)	4	2	.02	+	 > 100	2.71E-04	4.45E-02
+fumarate reductase complex (GO:0045283)	4	2	.02	+	 > 100	2.71E-04	4.11E-02
+succinate dehydrogenase complex (GO:0045281)	4	2	.02	+	 > 100	2.71E-04	3.81E-02
+respiratory chain complex II (GO:0045273)	4	2	.02	+	 > 100	2.71E-04	3.56E-02
+succinate dehydrogenase complex (ubiquinone) (GO:0045257)	4	2	.02	+	 > 100	2.71E-04	3.34E-02
+protease inhibitor complex (GO:0097179)	4	2	.02	+	 > 100	2.71E-04	3.14E-02
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone) (GO:0005749)	4	2	.02	+	 > 100	2.71E-04	2.97E-02
+melanosome (GO:0042470)	31	3	.13	+	22.44	4.17E-04	3.92E-02
+pigment granule (GO:0048770)	31	3	.13	+	22.44	4.17E-04	3.74E-02
+cytoplasmic stress granule (GO:0010494)	69	5	.30	+	16.81	1.67E-05	4.72E-03
+perikaryon (GO:0043204)	140	5	.60	+	8.28	4.07E-04	4.02E-02
+cytoplasmic ribonucleoprotein granule (GO:0036464)	216	6	.93	+	6.44	3.94E-04	4.10E-02
+membrane raft (GO:0045121)	378	10	1.63	+	6.14	6.60E-06	3.26E-03
+ribonucleoprotein granule (GO:0035770)	227	6	.98	+	6.13	5.09E-04	4.19E-02
+membrane microdomain (GO:0098857)	379	10	1.63	+	6.12	6.75E-06	2.67E-03
+membrane region (GO:0098589)	392	10	1.69	+	5.92	8.99E-06	2.96E-03
+presynapse (GO:0098793)	588	11	2.54	+	4.34	5.23E-05	1.15E-02
+extracellular space (GO:0005615)	2006	26	8.65	+	3.01	2.69E-07	2.65E-04
+cell surface (GO:0009986)	1175	15	5.07	+	2.96	1.61E-04	3.18E-02
+whole membrane (GO:0098805)	1175	14	5.07	+	2.76	5.40E-04	4.10E-02
+extracellular region (GO:0005576)	2816	32	12.14	+	2.64	1.43E-07	2.83E-04
+synapse (GO:0045202)	1436	16	6.19	+	2.58	4.36E-04	3.74E-02
+cell periphery (GO:0071944)	5486	39	23.65	+	1.65	5.38E-04	4.24E-02
+cytoplasm (GO:0005737)	11096	71	47.84	+	1.48	1.78E-06	1.17E-03
+cellular anatomical entity (GO:0110165)	18782	94	80.98	+	1.16	2.71E-05	6.69E-03

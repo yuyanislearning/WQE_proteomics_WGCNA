@@ -1,0 +1,40 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3954044 Released 2020-07-16
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Mus musculus - REFLIST (22265)	upload_1 (96)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+succinate dehydrogenase (ubiquinone) activity (GO:0008177)	4	2	.02	+	 > 100	2.71E-04	4.49E-02
+exogenous protein binding (GO:0140272)	27	6	.12	+	51.54	5.39E-09	2.50E-05
+poly(A) binding (GO:0008143)	27	6	.12	+	51.54	5.39E-09	1.25E-05
+virus receptor activity (GO:0001618)	26	5	.11	+	44.60	2.04E-07	1.90E-04
+poly(U) RNA binding (GO:0008266)	28	5	.12	+	41.42	2.83E-07	1.88E-04
+poly-purine tract binding (GO:0070717)	35	6	.15	+	39.76	2.13E-08	2.47E-05
+poly-pyrimidine tract binding (GO:0008187)	32	5	.14	+	36.24	5.13E-07	2.65E-04
+insulin receptor binding (GO:0005158)	28	4	.12	+	33.13	1.05E-05	3.24E-03
+phosphatidylserine binding (GO:0001786)	65	5	.28	+	17.84	1.27E-05	3.70E-03
+serine-type endopeptidase inhibitor activity (GO:0004867)	129	9	.56	+	16.18	8.22E-09	1.27E-05
+single-stranded RNA binding (GO:0003727)	93	6	.40	+	14.96	4.34E-06	1.68E-03
+mRNA 3'-UTR binding (GO:0003730)	89	5	.38	+	13.03	5.33E-05	1.46E-02
+chaperone binding (GO:0051087)	103	5	.44	+	11.26	1.03E-04	2.18E-02
+modified amino acid binding (GO:0072341)	106	5	.46	+	10.94	1.17E-04	2.27E-02
+endopeptidase inhibitor activity (GO:0004866)	213	9	.92	+	9.80	4.89E-07	2.84E-04
+peptidase inhibitor activity (GO:0030414)	219	9	.94	+	9.53	6.11E-07	2.84E-04
+endopeptidase regulator activity (GO:0061135)	223	9	.96	+	9.36	7.07E-07	2.98E-04
+protease binding (GO:0002020)	152	6	.66	+	9.16	6.21E-05	1.60E-02
+peptidase regulator activity (GO:0061134)	254	10	1.10	+	9.13	2.05E-07	1.59E-04
+enzyme inhibitor activity (GO:0004857)	392	10	1.69	+	5.92	8.99E-06	2.98E-03
+receptor ligand activity (GO:0048018)	497	10	2.14	+	4.67	6.48E-05	1.58E-02
+signaling receptor activator activity (GO:0030546)	502	10	2.16	+	4.62	7.03E-05	1.63E-02
+receptor regulator activity (GO:0030545)	540	10	2.33	+	4.29	1.27E-04	2.35E-02
+lipid binding (GO:0008289)	800	12	3.45	+	3.48	1.85E-04	3.30E-02
+enzyme binding (GO:0019899)	2364	24	10.19	+	2.35	7.27E-05	1.61E-02
+anion binding (GO:0043168)	2732	26	11.78	+	2.21	1.17E-04	2.37E-02
+protein binding (GO:0005515)	9308	58	40.13	+	1.45	2.63E-04	4.52E-02
+binding (GO:0005488)	13491	79	58.17	+	1.36	7.67E-06	2.74E-03

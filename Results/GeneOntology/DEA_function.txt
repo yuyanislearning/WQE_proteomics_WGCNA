@@ -1,0 +1,32 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3954044 Released 2020-07-16
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Mus musculus - REFLIST (22265)	upload_1 (108)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+antioxidant activity (GO:0016209)	82	5	.40	+	12.57	6.44E-05	1.99E-02
+serine-type endopeptidase inhibitor activity (GO:0004867)	129	6	.63	+	9.59	4.99E-05	1.65E-02
+peptidase regulator activity (GO:0061134)	254	10	1.23	+	8.12	6.20E-07	7.19E-04
+heparin binding (GO:0008201)	155	6	.75	+	7.98	1.32E-04	3.41E-02
+glycosaminoglycan binding (GO:0005539)	212	8	1.03	+	7.78	1.17E-05	6.76E-03
+endopeptidase inhibitor activity (GO:0004866)	213	8	1.03	+	7.74	1.20E-05	6.21E-03
+peptidase inhibitor activity (GO:0030414)	219	8	1.06	+	7.53	1.46E-05	6.79E-03
+endopeptidase regulator activity (GO:0061135)	223	8	1.08	+	7.40	1.66E-05	7.00E-03
+sulfur compound binding (GO:1901681)	260	8	1.26	+	6.34	4.78E-05	1.71E-02
+structural molecule activity (GO:0005198)	579	13	2.81	+	4.63	5.65E-06	3.75E-03
+enzyme regulator activity (GO:0030234)	997	16	4.84	+	3.31	2.81E-05	1.09E-02
+cytoskeletal protein binding (GO:0008092)	977	15	4.74	+	3.17	8.37E-05	2.43E-02
+carbohydrate derivative binding (GO:0097367)	2130	29	10.33	+	2.81	2.49E-07	3.86E-04
+anion binding (GO:0043168)	2732	32	13.25	+	2.41	2.04E-06	1.89E-03
+purine nucleotide binding (GO:0017076)	1803	21	8.75	+	2.40	1.50E-04	3.49E-02
+identical protein binding (GO:0042802)	2162	24	10.49	+	2.29	1.12E-04	3.05E-02
+ion binding (GO:0043167)	5516	49	26.76	+	1.83	3.33E-06	2.58E-03
+protein binding (GO:0005515)	9308	77	45.15	+	1.71	8.41E-10	1.95E-06
+catalytic activity (GO:0003824)	5704	46	27.67	+	1.66	1.43E-04	3.50E-02
+binding (GO:0005488)	13491	95	65.44	+	1.45	5.30E-10	2.46E-06

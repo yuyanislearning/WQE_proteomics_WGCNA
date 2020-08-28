@@ -1,0 +1,94 @@
+pro	gene_dsi	gene_dpi	gene_pli	disease_name	score	ei	el	source
+P47989	0.529	0.846	2.589e-22	Reperfusion Injury	0.5	1.0	None	ANIMAL_MODELS
+Q13976	0.603	0.769	0.99938	Hypertensive disease	0.34	1.0	None	ANIMAL_MODELS
+P27797	0.413	0.923	0.89133	Heart failure	0.3	1.0	None	ANIMAL_MODELS
+P27797	0.413	0.923	0.89133	Congestive heart failure	0.3	1.0	None	ANIMAL_MODELS
+P10909	0.426	0.885	7.8072e-05	Atherosclerosis	0.28	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Hypertensive disease	0.27	1.0	None	ANIMAL_MODELS
+P21964	0.4	0.923	1.1377e-06	Hypertensive disease	0.25	1.0	None	ANIMAL_MODELS
+P01011	0.486	0.846	8.833e-14	Diabetic Retinopathy	0.21	1.0	None	ANIMAL_MODELS
+P10909	0.426	0.885	7.8072e-05	Brain Ischemia	0.21	1.0	None	ANIMAL_MODELS
+P63010	0.711	0.423	0.9983	Infarction, Middle Cerebral Artery	0.2	1.0	None	ANIMAL_MODELS
+P60953	0.458	0.846	0.78728	Reperfusion Injury	0.2	1.0	None	ANIMAL_MODELS
+P23528	0.529	0.769	0.55563	Myocardial Infarction	0.2	1.0	None	ANIMAL_MODELS
+P23528	0.529	0.769	0.55563	hypertensive nephropathy	0.2	1.0	None	ANIMAL_MODELS
+P23528	0.529	0.769	0.55563	Diabetic Cardiomyopathies	0.2	1.0	None	ANIMAL_MODELS
+P98082	0.565	0.731	0.40701	Myocardial Infarction	0.2	1.0	None	ANIMAL_MODELS
+P02675	0.584	0.692	0.56616	Pulmonary Embolism	0.2	1.0	None	ANIMAL_MODELS
+P02679	0.633	0.615	0.04963	Pulmonary Embolism	0.2	1.0	None	ANIMAL_MODELS
+P02794	0.559	0.731	0.13999	Heart failure	0.2	1.0	None	ANIMAL_MODELS
+P02794	0.559	0.731	0.13999	Congestive heart failure	0.2	1.0	None	ANIMAL_MODELS
+Q13976	0.603	0.769	0.99938	Myocardial Reperfusion Injury	0.2	1.0	None	ANIMAL_MODELS
+Q16647	0.617	0.654	1.197e-09	Brain Ischemia	0.2	1.0	None	ANIMAL_MODELS
+P04004	0.509	0.769	1.5014e-10	Diabetic Retinopathy	0.2	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Hypotension	0.2	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Myocardial Reperfusion Injury	0.2	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Cardiomyopathies, Primary	0.2	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Myocardial Diseases, Secondary	0.2	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Arterial thrombosis	0.2	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Diabetic Cardiomyopathies	0.2	1.0	None	ANIMAL_MODELS
+P47989	0.529	0.846	2.589e-22	Cardiomyopathies	0.2	1.0	None	ANIMAL_MODELS
+Q9HAV7	0.931	0.192	0.13916	Infarction, Middle Cerebral Artery	0.2	1.0	None	ANIMAL_MODELS
+Q16647	0.617	0.654	1.197e-09	Essential Hypertension	0.63	0.0	limited	CURATED
+P21964	0.4	0.923	1.1377e-06	DiGeorge Syndrome	0.6	0.929	None	CURATED
+P21964	0.4	0.923	1.1377e-06	Shprintzen syndrome	0.6	0.9	None	CURATED
+P21964	0.4	0.923	1.1377e-06	CONOTRUNCAL ANOMALY FACE SYNDROME	0.5	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Cardiovascular Diseases	0.5	0.964	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Coronary heart disease	0.5	0.968	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Cerebrovascular accident	0.5	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Thromboembolism	0.5	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Coronary Artery Disease	0.5	0.958	None	CURATED
+P47989	0.529	0.846	2.589e-22	Reperfusion Injury	0.5	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Atherosclerosis	0.4	0.957	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Coronary Arteriosclerosis	0.4	0.965	None	CURATED
+P21964	0.4	0.923	1.1377e-06	22q11 Deletion Syndrome	0.36	1.0	None	CURATED
+P00747	0.389	0.923	0.010345	Deep Vein Thrombosis	0.36	1.0	None	CURATED
+P00747	0.389	0.923	0.010345	Hypertensive disease	0.35	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Congestive heart failure	0.34	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Deep Vein Thrombosis	0.32	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Heart failure	0.32	1.0	None	CURATED
+P27797	0.413	0.923	0.89133	Myocardial Ischemia	0.31	1.0	None	CURATED
+Q16647	0.617	0.654	1.197e-09	Patent ductus arteriosus	0.31	1.0	None	CURATED
+P52566	0.633	0.654	0.0006377	Acute Coronary Syndrome	0.3	1.0	None	CURATED
+P00742	0.493	0.769	2.3473e-06	Thrombosis	0.3	1.0	None	CURATED
+P00742	0.493	0.769	2.3473e-06	Thrombus	0.3	1.0	None	CURATED
+P54652	0.55	0.808	0.048648	Myocardial Ischemia	0.3	1.0	None	CURATED
+P61604	0.617	0.769	0.80379	Cardiomyopathies, Primary	0.3	1.0	None	CURATED
+P61604	0.617	0.769	0.80379	Myocardial Diseases, Secondary	0.3	1.0	None	CURATED
+P61604	0.617	0.769	0.80379	Cardiomyopathies	0.3	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Venous Thrombosis	0.3	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Acute Cerebrovascular Accidents	0.3	1.0	None	CURATED
+P08519	0.444	0.769	6.5917e-89	Atherogenesis	0.3	1.0	None	CURATED
+P00747	0.389	0.923	0.010345	Venous Thrombosis	0.3	1.0	None	CURATED
+Q16647	0.617	0.654	1.197e-09	Patent Ductus Arteriosus Familial	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Heart Diseases	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Left-Sided Heart Failure	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Pulmonary Embolism	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Heart Failure, Right-Sided	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Middle Cerebral Artery Syndrome	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Pulmonary Thromboembolisms	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Middle Cerebral Artery Thrombosis	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Middle Cerebral Artery Occlusion	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Infarction, Middle Cerebral Artery	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Middle Cerebral Artery Embolus	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Left Middle Cerebral Artery Infarction	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Embolic Infarction, Middle Cerebral Artery	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Thrombotic Infarction, Middle Cerebral Artery	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Right Middle Cerebral Artery Infarction	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Myocardial Failure	0.3	1.0	None	CURATED
+P47989	0.529	0.846	2.589e-22	Heart Decompensation	0.3	1.0	None	CURATED
+P51149	0.597	0.692	0.96933	Myocardial Ischemia	0.3	1.0	None	CURATED
+P60981	0.644	0.692	0.55116	Heart failure	0.3	1.0	None	CURATED
+P60981	0.644	0.692	0.55116	Congestive heart failure	0.3	1.0	None	CURATED
+P60981	0.644	0.692	0.55116	Left-Sided Heart Failure	0.3	1.0	None	CURATED
+P60981	0.644	0.692	0.55116	Heart Failure, Right-Sided	0.3	1.0	None	CURATED
+P60981	0.644	0.692	0.55116	Myocardial Failure	0.3	1.0	None	CURATED
+P60981	0.644	0.692	0.55116	Heart Decompensation	0.3	1.0	None	CURATED
+Q9NUQ9	0.76	0.538	0.97612	Heart Failure, Diastolic	0.3	1.0	None	CURATED
+P54646	0.456	0.846	3.5282e-08	Cardiomyopathies	0.32	1.0	None	CURATED
+P54646	0.456	0.846	3.5282e-08	Cardiomegaly	0.3	1.0	None	CURATED
+P54646	0.456	0.846	3.5282e-08	Cardiomyopathies, Primary	0.3	1.0	None	CURATED
+P54646	0.456	0.846	3.5282e-08	Myocardial Diseases, Secondary	0.3	1.0	None	CURATED
+P54646	0.456	0.846	3.5282e-08	Cerebrovascular accident	0.3	1.0	None	CURATED
+P54646	0.456	0.846	3.5282e-08	Acute Cerebrovascular Accidents	0.3	1.0	None	CURATED
+P54646	0.456	0.846	3.5282e-08	Cardiac Hypertrophy	0.3	1.0	None	CURATED

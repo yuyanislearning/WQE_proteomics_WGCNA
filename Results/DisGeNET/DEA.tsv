@@ -1,0 +1,23 @@
+pro	gene_dsi	gene_dpi	gene_pli	disease_name	score	ei	el	source
+Q15063	0.428	0.885	1.0666e-09	Myocardial Infarction	0.26	1.0	None	ANIMAL_MODELS
+Q15063	0.428	0.885	1.0666e-09	Heart failure	0.25	1.0	None	ANIMAL_MODELS
+Q15063	0.428	0.885	1.0666e-09	Congestive heart failure	0.25	1.0	None	ANIMAL_MODELS
+P31751	0.474	0.769	0.64432	Hypertensive disease	0.22	1.0	None	ANIMAL_MODELS
+Q86TC9	0.612	0.615	2.611e-06	Restrictive cardiomyopathy	0.22	1.0	None	ANIMAL_MODELS
+P01011	0.486	0.846	8.833e-14	Diabetic Retinopathy	0.21	1.0	None	ANIMAL_MODELS
+Q15063	0.428	0.885	1.0666e-09	Hypertensive disease	0.21	1.0	None	ANIMAL_MODELS
+Q15063	0.428	0.885	1.0666e-09	hypertensive nephropathy	0.21	1.0	None	ANIMAL_MODELS
+P31751	0.474	0.769	0.64432	Myocardial Reperfusion Injury	0.2	1.0	None	ANIMAL_MODELS
+Q13464	0.513	0.731	1.0	Left Ventricular Hypertrophy	0.2	1.0	None	ANIMAL_MODELS
+Q15063	0.428	0.885	1.0666e-09	Cardiomegaly	0.2	1.0	None	ANIMAL_MODELS
+Q15063	0.428	0.885	1.0666e-09	Ventricular Dysfunction	0.2	1.0	None	ANIMAL_MODELS
+Q86TC9	0.612	0.615	2.611e-06	Cardiomyopathies	0.43	1.0	None	CURATED
+Q86TC9	0.612	0.615	2.611e-06	Hypertrophic Cardiomyopathy	0.31	1.0	limited	CURATED
+Q13642	0.532	0.731	0.96979	Heart Failure, Diastolic	0.3	1.0	None	CURATED
+Q13642	0.532	0.731	0.96979	URUGUAY FACIOCARDIOMUSCULOSKELETAL SYNDROME	0.3	1.0	strong	CURATED
+Q86TC9	0.612	0.615	2.611e-06	Atrial Fibrillation	0.3	1.0	None	CURATED
+Q86TC9	0.612	0.615	2.611e-06	Paroxysmal atrial fibrillation	0.3	1.0	None	CURATED
+Q86TC9	0.612	0.615	2.611e-06	Familial dilated cardiomyopathy	0.3	1.0	None	CURATED
+Q86TC9	0.612	0.615	2.611e-06	Other restrictive cardiomyopathy	0.3	1.0	None	CURATED
+Q86TC9	0.612	0.615	2.611e-06	Persistent atrial fibrillation	0.3	1.0	None	CURATED
+Q86TC9	0.612	0.615	2.611e-06	familial atrial fibrillation	0.3	1.0	None	CURATED

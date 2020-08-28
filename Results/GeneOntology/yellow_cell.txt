@@ -1,0 +1,82 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3954044 Released 2020-07-16
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Mus musculus - REFLIST (22265)	upload_1 (118)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+neurofibrillary tangle (GO:0097418)	4	2	.02	+	94.34	4.08E-04	1.64E-02
+AP-2 adaptor complex (GO:0030122)	12	4	.06	+	62.90	1.27E-06	1.20E-04
+fibrinogen complex (GO:0005577)	6	2	.03	+	62.90	7.56E-04	2.71E-02
+clathrin coat of endocytic vesicle (GO:0030128)	13	4	.07	+	58.06	1.66E-06	1.42E-04
+clathrin-coated endocytic vesicle membrane (GO:0030669)	14	4	.07	+	53.91	2.12E-06	1.67E-04
+clathrin coat of coated pit (GO:0030132)	18	5	.10	+	52.41	1.17E-07	1.53E-05
+endoplasmic reticulum chaperone complex (GO:0034663)	12	3	.06	+	47.17	6.21E-05	2.92E-03
+clathrin adaptor complex (GO:0030131)	25	5	.13	+	37.74	4.80E-07	5.26E-05
+blood microparticle (GO:0072562)	10	2	.05	+	37.74	1.76E-03	5.03E-02
+Arp2/3 protein complex (GO:0005885)	10	2	.05	+	37.74	1.76E-03	4.95E-02
+clathrin vesicle coat (GO:0030125)	28	5	.15	+	33.69	7.89E-07	8.19E-05
+clathrin-coated vesicle membrane (GO:0030665)	38	6	.20	+	29.79	1.13E-07	1.60E-05
+clathrin-coated endocytic vesicle (GO:0045334)	26	4	.14	+	29.03	1.81E-05	1.05E-03
+smooth endoplasmic reticulum (GO:0005790)	36	5	.19	+	26.21	2.41E-06	1.83E-04
+vesicle coat (GO:0030120)	56	7	.30	+	23.59	4.10E-08	8.99E-06
+clathrin coat (GO:0030118)	48	6	.25	+	23.59	3.97E-07	4.61E-05
+AP-type membrane coat adaptor complex (GO:0030119)	43	5	.23	+	21.94	5.34E-06	3.77E-04
+coated vesicle membrane (GO:0030662)	79	9	.42	+	21.50	9.31E-10	2.62E-07
+endocytic vesicle membrane (GO:0030666)	45	4	.24	+	16.77	1.29E-04	5.68E-03
+lipoprotein particle (GO:1990777)	34	3	.18	+	16.65	9.74E-04	3.43E-02
+plasma lipoprotein particle (GO:0034358)	34	3	.18	+	16.65	9.74E-04	3.37E-02
+membrane coat (GO:0030117)	98	8	.52	+	15.40	9.21E-08	1.65E-05
+coated membrane (GO:0048475)	98	8	.52	+	15.40	9.21E-08	1.51E-05
+protein-lipid complex (GO:0032994)	37	3	.20	+	15.30	1.22E-03	4.10E-02
+clathrin-coated pit (GO:0005905)	69	5	.37	+	13.67	4.51E-05	2.22E-03
+endoplasmic reticulum lumen (GO:0005788)	85	6	.45	+	13.32	8.74E-06	5.75E-04
+Golgi-associated vesicle membrane (GO:0030660)	62	4	.33	+	12.17	4.11E-04	1.62E-02
+clathrin-coated vesicle (GO:0030136)	106	6	.56	+	10.68	2.87E-05	1.53E-03
+coated vesicle (GO:0030135)	191	9	1.01	+	8.89	1.17E-06	1.16E-04
+endocytic vesicle (GO:0030139)	201	9	1.07	+	8.45	1.75E-06	1.44E-04
+filopodium (GO:0030175)	93	4	.49	+	8.12	1.74E-03	5.14E-02
+actin filament bundle (GO:0032432)	93	4	.49	+	8.12	1.74E-03	5.06E-02
+cytoplasmic vesicle membrane (GO:0030659)	343	11	1.82	+	6.05	2.81E-06	2.05E-04
+vesicle membrane (GO:0012506)	368	11	1.95	+	5.64	5.38E-06	3.66E-04
+myelin sheath (GO:0043209)	213	6	1.13	+	5.32	1.09E-03	3.70E-02
+actin-based cell projection (GO:0098858)	221	6	1.17	+	5.12	1.31E-03	4.30E-02
+collagen-containing extracellular matrix (GO:0062023)	385	9	2.04	+	4.41	2.45E-04	1.01E-02
+cell cortex (GO:0005938)	305	7	1.62	+	4.33	1.35E-03	4.29E-02
+actin cytoskeleton (GO:0015629)	495	11	2.62	+	4.19	7.67E-05	3.44E-03
+perinuclear region of cytoplasm (GO:0048471)	665	14	3.52	+	3.97	1.39E-05	8.33E-04
+secretory granule (GO:0030141)	395	8	2.09	+	3.82	1.35E-03	4.36E-02
+extracellular matrix (GO:0031012)	507	9	2.69	+	3.35	1.66E-03	4.98E-02
+secretory vesicle (GO:0099503)	606	10	3.21	+	3.11	1.58E-03	4.79E-02
+membrane protein complex (GO:0098796)	1156	19	6.13	+	3.10	1.22E-05	7.50E-04
+bounding membrane of organelle (GO:0098588)	1130	18	5.99	+	3.01	3.18E-05	1.61E-03
+mitochondrion (GO:0005739)	1819	28	9.64	+	2.90	2.57E-07	3.17E-05
+whole membrane (GO:0098805)	1175	17	6.23	+	2.73	1.70E-04	7.31E-03
+endoplasmic reticulum (GO:0005783)	1654	23	8.77	+	2.62	1.92E-05	1.08E-03
+cytosol (GO:0005829)	3589	49	19.02	+	2.58	5.56E-11	2.19E-08
+vesicle (GO:0031982)	2072	27	10.98	+	2.46	1.01E-05	6.41E-04
+cytoplasmic vesicle (GO:0031410)	1936	25	10.26	+	2.44	2.69E-05	1.47E-03
+intracellular vesicle (GO:0097708)	1943	25	10.30	+	2.43	4.72E-05	2.27E-03
+organelle membrane (GO:0031090)	2180	27	11.55	+	2.34	2.95E-05	1.53E-03
+cytoskeleton (GO:0005856)	2167	26	11.48	+	2.26	6.69E-05	3.07E-03
+cell junction (GO:0030054)	2048	23	10.85	+	2.12	5.93E-04	2.17E-02
+endomembrane system (GO:0012505)	3931	43	20.83	+	2.06	1.30E-06	1.17E-04
+protein-containing complex (GO:0032991)	5351	55	28.36	+	1.94	1.09E-07	1.66E-05
+cytoplasm (GO:0005737)	11096	110	58.81	+	1.87	3.79E-24	7.49E-21
+intracellular non-membrane-bounded organelle (GO:0043232)	4229	37	22.41	+	1.65	1.35E-03	4.24E-02
+non-membrane-bounded organelle (GO:0043228)	4248	37	22.51	+	1.64	1.40E-03	4.33E-02
+intracellular organelle (GO:0043229)	12101	103	64.13	+	1.61	2.58E-14	1.70E-11
+organelle (GO:0043226)	12445	104	65.96	+	1.58	8.16E-14	4.03E-11
+membrane-bounded organelle (GO:0043227)	11189	93	59.30	+	1.57	2.22E-10	7.29E-08
+intracellular (GO:0005622)	13854	113	73.42	+	1.54	1.08E-17	1.07E-14
+intracellular membrane-bounded organelle (GO:0043231)	10426	85	55.26	+	1.54	4.39E-08	8.66E-06
+cellular anatomical entity (GO:0110165)	18782	118	99.54	+	1.19	4.11E-09	1.01E-06
+cellular_component (GO:0005575)	20799	118	110.23	+	1.07	5.65E-04	2.11E-02
+intrinsic component of membrane (GO:0031224)	6055	16	32.09	-	.50	5.54E-04	2.15E-02
+integral component of membrane (GO:0016021)	5876	14	31.14	-	.45	2.06E-04	8.64E-03
+Unclassified (UNCLASSIFIED)	1466	0	7.77	-	 < 0.01	5.65E-04	2.15E-02

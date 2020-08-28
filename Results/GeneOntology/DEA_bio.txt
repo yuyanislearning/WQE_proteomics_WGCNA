@@ -1,0 +1,87 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3954044 Released 2020-07-16
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Mus musculus - REFLIST (22265)	upload_1 (108)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+fibrinolysis (GO:0042730)	14	3	.07	+	44.18	7.08E-05	2.07E-02
+acute-phase response (GO:0006953)	33	5	.16	+	31.24	1.06E-06	7.94E-04
+hyaluronan metabolic process (GO:0030212)	20	3	.10	+	30.92	1.81E-04	4.02E-02
+negative regulation of blood coagulation (GO:0030195)	45	4	.22	+	18.33	9.20E-05	2.60E-02
+negative regulation of hemostasis (GO:1900047)	46	4	.22	+	17.93	9.97E-05	2.67E-02
+negative regulation of coagulation (GO:0050819)	47	4	.23	+	17.55	1.08E-04	2.75E-02
+platelet activation (GO:0030168)	49	4	.24	+	16.83	1.25E-04	3.05E-02
+acute inflammatory response (GO:0002526)	66	5	.32	+	15.62	2.41E-05	9.30E-03
+mucopolysaccharide metabolic process (GO:1903510)	54	4	.26	+	15.27	1.78E-04	4.02E-02
+zymogen activation (GO:0031638)	58	4	.28	+	14.22	2.31E-04	4.93E-02
+striated muscle cell development (GO:0055002)	146	8	.71	+	11.30	8.26E-07	8.16E-04
+coagulation (GO:0050817)	115	6	.56	+	10.76	2.70E-05	9.68E-03
+blood coagulation (GO:0007596)	115	6	.56	+	10.76	2.70E-05	9.47E-03
+hemostasis (GO:0007599)	117	6	.57	+	10.57	2.96E-05	9.94E-03
+muscle cell development (GO:0055001)	161	8	.78	+	10.24	1.66E-06	1.20E-03
+negative regulation of peptidase activity (GO:0010466)	245	10	1.19	+	8.41	4.51E-07	6.48E-04
+negative regulation of endopeptidase activity (GO:0010951)	181	7	.88	+	7.97	3.61E-05	1.19E-02
+striated muscle cell differentiation (GO:0051146)	218	8	1.06	+	7.57	1.42E-05	6.05E-03
+negative regulation of proteolysis (GO:0045861)	349	12	1.69	+	7.09	1.80E-07	4.07E-04
+regulation of cell-substrate adhesion (GO:0010810)	214	7	1.04	+	6.74	1.00E-04	2.63E-02
+regulation of peptidase activity (GO:0052547)	419	13	2.03	+	6.40	1.69E-07	4.46E-04
+muscle cell differentiation (GO:0042692)	267	8	1.30	+	6.18	5.73E-05	1.78E-02
+negative regulation of hydrolase activity (GO:0051346)	404	12	1.96	+	6.12	8.14E-07	8.57E-04
+regulation of endopeptidase activity (GO:0052548)	344	10	1.67	+	5.99	8.49E-06	4.07E-03
+wound healing (GO:0042060)	247	7	1.20	+	5.84	2.36E-04	4.96E-02
+positive regulation of growth (GO:0045927)	298	8	1.45	+	5.53	1.20E-04	2.97E-02
+positive regulation of cellular catabolic process (GO:0031331)	392	10	1.90	+	5.26	2.54E-05	9.33E-03
+response to wounding (GO:0009611)	323	8	1.57	+	5.11	2.06E-04	4.52E-02
+regulation of proteolysis (GO:0030162)	727	18	3.53	+	5.10	1.74E-08	2.75E-04
+positive regulation of catabolic process (GO:0009896)	459	11	2.23	+	4.94	1.73E-05	7.19E-03
+negative regulation of response to external stimulus (GO:0032102)	381	9	1.85	+	4.87	1.16E-04	2.91E-02
+negative regulation of catalytic activity (GO:0043086)	701	16	3.40	+	4.71	3.43E-07	6.03E-04
+inflammatory response (GO:0006954)	477	10	2.31	+	4.32	1.26E-04	3.01E-02
+regulation of hydrolase activity (GO:0051336)	1001	19	4.86	+	3.91	3.93E-07	6.20E-04
+negative regulation of cellular protein metabolic process (GO:0032269)	1013	19	4.91	+	3.87	4.69E-07	6.17E-04
+regulation of response to external stimulus (GO:0032101)	913	17	4.43	+	3.84	2.24E-06	1.47E-03
+negative regulation of molecular function (GO:0044092)	1033	19	5.01	+	3.79	6.26E-07	7.61E-04
+regulation of cell migration (GO:0030334)	932	17	4.52	+	3.76	2.94E-06	1.86E-03
+negative regulation of protein metabolic process (GO:0051248)	1070	19	5.19	+	3.66	1.05E-06	8.30E-04
+regulation of cell motility (GO:2000145)	982	17	4.76	+	3.57	5.82E-06	3.17E-03
+regulation of cell adhesion (GO:0030155)	722	12	3.50	+	3.43	2.23E-04	4.82E-02
+regulation of locomotion (GO:0040012)	1029	17	4.99	+	3.41	1.06E-05	4.79E-03
+regulation of catabolic process (GO:0009894)	878	14	4.26	+	3.29	9.96E-05	2.71E-02
+regulation of cellular component movement (GO:0051270)	1073	17	5.20	+	3.27	1.81E-05	7.32E-03
+positive regulation of protein phosphorylation (GO:0001934)	997	15	4.84	+	3.10	1.04E-04	2.71E-02
+positive regulation of phosphorylation (GO:0042327)	1073	16	5.20	+	3.07	6.67E-05	1.99E-02
+positive regulation of cellular protein metabolic process (GO:0032270)	1567	22	7.60	+	2.89	6.02E-06	3.17E-03
+positive regulation of phosphorus metabolic process (GO:0010562)	1143	16	5.54	+	2.89	1.38E-04	3.24E-02
+positive regulation of phosphate metabolic process (GO:0045937)	1143	16	5.54	+	2.89	1.38E-04	3.20E-02
+regulation of catalytic activity (GO:0050790)	1871	26	9.08	+	2.86	8.45E-07	7.86E-04
+positive regulation of protein metabolic process (GO:0051247)	1657	23	8.04	+	2.86	4.27E-06	2.50E-03
+positive regulation of protein modification process (GO:0031401)	1229	17	5.96	+	2.85	9.59E-05	2.66E-02
+regulation of cellular protein metabolic process (GO:0032268)	2548	33	12.36	+	2.67	8.90E-08	4.69E-04
+regulation of protein metabolic process (GO:0051246)	2719	34	13.19	+	2.58	1.22E-07	4.83E-04
+cellular component assembly (GO:0022607)	2014	25	9.77	+	2.56	1.05E-05	4.87E-03
+regulation of molecular function (GO:0065009)	2565	30	12.44	+	2.41	5.08E-06	2.87E-03
+cellular component biogenesis (GO:0044085)	2241	25	10.87	+	2.30	7.14E-05	2.05E-02
+regulation of localization (GO:0032879)	2882	30	13.98	+	2.15	3.88E-05	1.25E-02
+protein metabolic process (GO:0019538)	3486	36	16.91	+	2.13	6.64E-06	3.38E-03
+organonitrogen compound metabolic process (GO:1901564)	4362	45	21.16	+	2.13	1.54E-07	4.87E-04
+response to stress (GO:0006950)	3210	32	15.57	+	2.06	4.81E-05	1.52E-02
+response to chemical (GO:0042221)	3418	34	16.58	+	2.05	2.44E-05	9.18E-03
+negative regulation of cellular process (GO:0048523)	4747	46	23.03	+	2.00	7.51E-07	8.48E-04
+regulation of biological quality (GO:0065008)	3940	38	19.11	+	1.99	1.28E-05	5.64E-03
+cellular component organization (GO:0016043)	5103	48	24.75	+	1.94	8.48E-07	7.45E-04
+negative regulation of biological process (GO:0048519)	5213	48	25.29	+	1.90	1.82E-06	1.25E-03
+cellular component organization or biogenesis (GO:0071840)	5298	48	25.70	+	1.87	3.72E-06	2.26E-03
+macromolecule metabolic process (GO:0043170)	5187	45	25.16	+	1.79	2.94E-05	1.01E-02
+nitrogen compound metabolic process (GO:0006807)	5778	50	28.03	+	1.78	7.36E-06	3.63E-03
+organic substance metabolic process (GO:0071704)	6853	58	33.24	+	1.74	9.61E-07	7.99E-04
+metabolic process (GO:0008152)	7365	62	35.73	+	1.74	2.91E-07	5.74E-04
+localization (GO:0051179)	4909	41	23.81	+	1.72	1.73E-04	3.97E-02
+primary metabolic process (GO:0044238)	6350	52	30.80	+	1.69	2.33E-05	9.21E-03
+cellular metabolic process (GO:0044237)	6418	51	31.13	+	1.64	6.57E-05	2.00E-02
+cellular process (GO:0009987)	15103	98	73.26	+	1.34	3.46E-08	2.74E-04

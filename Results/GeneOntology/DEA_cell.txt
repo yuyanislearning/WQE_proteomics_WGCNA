@@ -1,0 +1,25 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3954044 Released 2020-07-16
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO cellular component complete	Mus musculus - REFLIST (22265)	upload_1 (108)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+6-phosphofructokinase complex (GO:0005945)	3	2	.01	+	 > 100	2.29E-04	3.76E-02
+collagen-containing extracellular matrix (GO:0062023)	385	14	1.87	+	7.50	8.02E-09	5.28E-06
+extracellular matrix (GO:0031012)	507	15	2.46	+	6.10	3.23E-08	1.06E-05
+endoplasmic reticulum (GO:0005783)	1654	22	8.02	+	2.74	1.40E-05	2.76E-03
+supramolecular complex (GO:0099080)	1214	16	5.89	+	2.72	2.70E-04	4.10E-02
+endomembrane system (GO:0012505)	3931	44	19.07	+	2.31	1.87E-08	7.37E-06
+cytosol (GO:0005829)	3589	39	17.41	+	2.24	5.08E-07	1.25E-04
+cytoplasm (GO:0005737)	11096	94	53.82	+	1.75	8.74E-16	1.73E-12
+intracellular organelle (GO:0043229)	12101	87	58.70	+	1.48	1.68E-08	8.29E-06
+intracellular (GO:0005622)	13854	98	67.20	+	1.46	3.81E-11	3.76E-08
+organelle (GO:0043226)	12445	87	60.37	+	1.44	9.21E-08	2.60E-05
+membrane-bounded organelle (GO:0043227)	11189	75	54.27	+	1.38	6.57E-05	1.18E-02
+cellular anatomical entity (GO:0110165)	18782	106	91.11	+	1.16	3.67E-06	8.04E-04

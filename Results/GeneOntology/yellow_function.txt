@@ -1,0 +1,54 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200728)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3954044 Released 2020-07-16
+Analyzed List:	upload_1 (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Mus musculus - REFLIST (22265)	upload_1 (118)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+clathrin adaptor activity (GO:0035615)	16	4	.08	+	47.17	3.33E-06	1.55E-03
+cargo adaptor activity (GO:0140312)	18	4	.10	+	41.93	4.99E-06	1.65E-03
+low-density lipoprotein particle receptor binding (GO:0050750)	28	4	.15	+	26.96	2.35E-05	6.43E-03
+tau protein binding (GO:0048156)	22	3	.12	+	25.73	3.02E-04	4.00E-02
+lipoprotein particle receptor binding (GO:0070325)	32	4	.17	+	23.59	3.79E-05	9.27E-03
+clathrin binding (GO:0030276)	62	6	.33	+	18.26	1.58E-06	1.05E-03
+unfolded protein binding (GO:0051082)	84	5	.45	+	11.23	1.09E-04	1.95E-02
+chaperone binding (GO:0051087)	103	6	.55	+	10.99	2.46E-05	6.34E-03
+isomerase activity (GO:0016853)	152	8	.81	+	9.93	2.15E-06	1.25E-03
+actin filament binding (GO:0051015)	209	10	1.11	+	9.03	2.54E-07	1.97E-04
+iron ion binding (GO:0005506)	166	6	.88	+	6.82	3.06E-04	3.94E-02
+GTPase activity (GO:0003924)	297	10	1.57	+	6.35	5.37E-06	1.66E-03
+nucleoside binding (GO:0001882)	376	10	1.99	+	5.02	3.86E-05	8.97E-03
+guanyl nucleotide binding (GO:0019001)	380	10	2.01	+	4.97	4.21E-05	9.32E-03
+guanyl ribonucleotide binding (GO:0032561)	380	10	2.01	+	4.97	4.21E-05	8.89E-03
+GTP binding (GO:0005525)	356	9	1.89	+	4.77	1.39E-04	2.30E-02
+purine ribonucleoside binding (GO:0032550)	363	9	1.92	+	4.68	1.60E-04	2.56E-02
+ribonucleoside binding (GO:0032549)	366	9	1.94	+	4.64	1.70E-04	2.63E-02
+purine nucleoside binding (GO:0001883)	367	9	1.95	+	4.63	1.73E-04	2.59E-02
+actin binding (GO:0003779)	433	10	2.29	+	4.36	1.21E-04	2.08E-02
+cytoskeletal protein binding (GO:0008092)	977	22	5.18	+	4.25	1.11E-08	2.57E-05
+structural molecule activity (GO:0005198)	579	12	3.07	+	3.91	6.88E-05	1.39E-02
+protein-containing complex binding (GO:0044877)	1472	27	7.80	+	3.46	1.32E-08	2.04E-05
+nucleoside-triphosphatase activity (GO:0017111)	749	13	3.97	+	3.27	1.94E-04	2.72E-02
+pyrophosphatase activity (GO:0016462)	801	13	4.25	+	3.06	3.65E-04	4.46E-02
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides (GO:0016818)	804	13	4.26	+	3.05	3.78E-04	4.39E-02
+hydrolase activity, acting on acid anhydrides (GO:0016817)	804	13	4.26	+	3.05	3.78E-04	4.28E-02
+enzyme binding (GO:0019899)	2364	34	12.53	+	2.71	4.60E-08	5.34E-05
+nucleoside phosphate binding (GO:1901265)	2034	25	10.78	+	2.32	7.12E-05	1.38E-02
+nucleotide binding (GO:0000166)	2034	25	10.78	+	2.32	7.12E-05	1.32E-02
+purine ribonucleoside triphosphate binding (GO:0035639)	1716	21	9.09	+	2.31	3.46E-04	4.34E-02
+purine nucleotide binding (GO:0017076)	1803	22	9.56	+	2.30	2.43E-04	3.32E-02
+anion binding (GO:0043168)	2732	33	14.48	+	2.28	4.12E-06	1.74E-03
+carbohydrate derivative binding (GO:0097367)	2130	24	11.29	+	2.13	4.08E-04	4.50E-02
+small molecule binding (GO:0036094)	2431	27	12.88	+	2.10	1.75E-04	2.53E-02
+catalytic activity (GO:0003824)	5704	54	30.23	+	1.79	2.39E-06	1.23E-03
+protein binding (GO:0005515)	9308	82	49.33	+	1.66	1.63E-09	7.58E-06
+ion binding (GO:0043167)	5516	47	29.23	+	1.61	3.66E-04	4.36E-02
+binding (GO:0005488)	13491	98	71.50	+	1.37	2.02E-07	1.88E-04
+molecular transducer activity (GO:0060089)	2327	0	12.33	-	 < 0.01	4.96E-06	1.92E-03
+signaling receptor activity (GO:0038023)	2327	0	12.33	-	 < 0.01	4.96E-06	1.77E-03
+transmembrane signaling receptor activity (GO:0004888)	2131	0	11.29	-	 < 0.01	1.16E-05	3.37E-03
