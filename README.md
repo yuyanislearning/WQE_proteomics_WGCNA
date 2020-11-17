@@ -1,11 +1,14 @@
 # WQE_proteomics_WGCNA
 Code and results for WQE, using WGCNA analyzing proteomics data
-This project aims to create a workflow for analyzing proteomics data through differential expression analysis and WGCNA to prioritize proteins that of interest based on experiment condition. It also includes modules for functional annotation and comparison for results coming from different analysis.
+This project aims to create a workflow for analyzing proteomics data through: performing differential expression analysis on proteomics data; WGCNA to form cluster proteins based on co-expression pattern; clusters are then associated with phenotype of interest. It also includes modules for functional annotation and comparison the proteins identified from different analysis.
+Details are shown below.
 
 ## Code 
 **/prepocess**  Preprocess code for missing data imputation, data transformation
+Preprocess the data to form a complete matrix by using cubic spline imputation. Differential expression analysis is also included
 
 **/WGCNA**   code for WGCNA analysis, including module traits association, connectivity calculation and so on
+WGCNA preprocess, WGCNA construction, relate WGCNA module to traits
 
 **/Reactome**  code for Reactome parent pathway identification
 
