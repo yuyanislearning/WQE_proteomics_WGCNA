@@ -1,6 +1,13 @@
 # WQE_proteomics_WGCNA
+By: Yu Yan, 2020/9/31
+
 Code and results for WQE, using WGCNA analyzing proteomics data
+
 This project aims to create a workflow for analyzing proteomics data through: performing differential expression analysis on proteomics data; WGCNA to form cluster proteins based on co-expression pattern; clusters are then associated with phenotype of interest. It also includes modules for functional annotation and comparison the proteins identified from different analysis.
+
+Proteomics search output should be formatted to fit the input of the workflow, detail are illustrated in preprocess part.
+Multiple outputs will be generated based on user's preferrence. In general, the results of differential expression analysis, WGCNA and functional annotation will be main results.
+
 Details are shown below.
 
 ## Code 
