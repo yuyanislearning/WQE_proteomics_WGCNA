@@ -28,3 +28,10 @@ WGCNA preprocess, WGCNA construction, relate WGCNA module to traits
 **/GeneOntology**     Gene ontology results
 
 **/Clinical**    Results of differentially expressed proteins identified in cinical study
+
+
+## Dependencies
+WGCNA
+
+
+
