@@ -1,6 +1,6 @@
 ###################################################################
 # This script is to get protein id from Panther API
-
+# Change 'curl' to the corresponding download command of your platform.
 
 import os
 import time
